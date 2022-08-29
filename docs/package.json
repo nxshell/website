@@ -1,0 +1,19 @@
+{
+  "name": "nxshell-doc",
+  "version": "0.0.1",
+  "description": "NxShell is the next-generation SSH client, it is cross platform, easy to use, and more.",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "nxshell/nxshell-doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
