@@ -3,7 +3,7 @@ home: true
 heroImage: /windows.jpg
 heroText: Next Shell Tools
 actionText: Download →
-actionLink: http://106.15.238.81:52080/
+actionLink: http://106.15.238.81:52081/
 features:
 - title: Support Multi Platform
   details: Windows & Linux & MacOs
