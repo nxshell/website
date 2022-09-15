@@ -11,5 +11,5 @@ features:
   details: SSH2/Ftp/Sftp/VNC/Telnet/SerialPort
 - title: Simple
   details: Easy to used by everyone
-footer: Made by  with ❤️
+footer:  Copyright © 2018-present
 ---

@@ -37,6 +37,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+	text: 'Donate',
+        link: '/donate/'
+      },
+      {
         text: 'Guide',
         link: '/guide/',
       },
@@ -53,9 +57,21 @@ module.exports = {
           children: [
             '',
             'use-case',
+            'fqa',
+            'bussiness',
           ]
         }
       ],
+      '/donate/': [
+        {
+          title: 'Donate',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+      ],
+
     }
   },
 
