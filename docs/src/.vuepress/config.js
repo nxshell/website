@@ -47,7 +47,12 @@ module.exports = {
       {
         text: 'Github',
         link: 'https://github.com/nxshell'
+      },
+      {
+        text: 'Gitee',
+        link: 'https://gitee.com/nxshell'
       }
+
     ],
     sidebar: {
       '/guide/': [
